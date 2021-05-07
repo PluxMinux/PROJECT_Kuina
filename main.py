@@ -15,7 +15,7 @@ try:
         command = listener.recognize_google(voice)
         command = command.lower()
         print(command)
-        kuina = ['hey kuina','hey uwi na','hey queena','hey quina']
+        kuina = ['hey kuina','hey uwi na','hey queena','hey quina','hey cuina']
         if command in kuina:
             engine.say("yes?")
             engine.runAndWait()
