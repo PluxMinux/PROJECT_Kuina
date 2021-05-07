@@ -1,4 +1,7 @@
 # PROJECT_Kuina
- personal voice assistant
-
- pip version and main file.
+ personal voice assistant.
+<br>
+### Requirements Installation.
+<br>
+pip install -r requirements.txt
+pipwin install pyaudio
