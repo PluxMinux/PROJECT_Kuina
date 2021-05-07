@@ -7,7 +7,6 @@ idna==2.10
 Js2Py==0.71
 packaging==20.9
 pipwin==0.5.1
-PyAudio @ file:///C:/Users/User/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 pyjsparser==2.7.1
 pyparsing==2.4.7
 pypiwin32==223
